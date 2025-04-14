@@ -1,8 +1,8 @@
 function Home() {
     return <div>
         <h1> 
-            to feiz demaaaaaaaaaaaaais
-            
+            to feiz demais
+
 
         </h1>
     </div>
